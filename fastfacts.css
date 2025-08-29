@@ -1,0 +1,19 @@
+.fastfacts-p-numbered {
+  display: flex;
+  align-items: flex-start;
+}
+/* FastFacts extension: style for numbered <li> with icon before number */
+.fastfacts-li-numbered {
+  /* list-style: none; */
+  display: flex;
+  align-items: flex-start;
+}
+.fastfacts-diamond {
+  color: #2563eb;
+  font-size: 1em;
+  margin-right: 2px;
+}
+.fastfacts-number {
+  font-weight: bold;
+  color: #2563eb;
+}
