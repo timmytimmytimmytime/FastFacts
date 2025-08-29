@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
-  "name": "Claude Smiley Marker",
+  "name": "Claude Fast Facts extension",
   "version": "1.0",
-  "description": "Adds a smiley face to the start of Claude AI responses",
+  "description": "Provides confidence and risk analysis for Claude AI responses with visual indicators.",
 
   "permissions": [
     "activeTab",
@@ -12,7 +12,7 @@
   "content_scripts": [
     {
       "matches": ["*://claude.ai/*"],
-      "js": ["content.js"],
+      "js": ["fastfacts.js"],
       "run_at": "document_end"
     }
   ],
