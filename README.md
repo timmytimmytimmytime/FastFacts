@@ -1,5 +1,7 @@
 # FastFacts
 
+⚠️ **Status:** Proof of concept — this extension demonstrates an approach to real-time AI oversight but does not yet perform fact-checking.
+
 ## AI Oversight for the Age of Eloquent Machines
 
 The human mind is a symphony of specialized systems working in concert—analytical reasoning, speech processing, visual perception, memory storage and retrieval, executive control and inhibition, metacognitive self-awareness, moral judgment, creative thinking, and social awareness all collaborate to produce genuine intelligence. Yet the world is losing its collective mind over "Artificial Intelligence" that is, in reality, just one sophisticated component: an eloquent speech center.
